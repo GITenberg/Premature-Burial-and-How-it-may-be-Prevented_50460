@@ -1,4 +1,8 @@
 _repo: Premature-Burial-and-How-it-may-be-Prevented_50460
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50460-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Tebb, William
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '45921'
     url: http://www.gutenberg.org/2009/agents/45921
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50460#Premature-Burial-and-How-it-may-be-Prevented
 gutenberg_issued: '2015-11-15'
 gutenberg_type: Text
 identifiers:
